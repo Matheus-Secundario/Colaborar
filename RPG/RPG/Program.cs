@@ -6,7 +6,7 @@ Console.Write("Escreva o seu nome: ");
 Nome = Console.ReadLine();
 
 while(ContinuarApp == true)
-{
+{ //1
     bool ContinuarJogo = true;
     bool Vitoria = false;
     bool Empate = false;
